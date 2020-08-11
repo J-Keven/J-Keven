@@ -1,8 +1,8 @@
-### Hello people :wave: I'm Jhonne Keven🙋‍♂️
+### Hello people :wave: I'm Jhonnas Keven🙋‍♂️
 
 📚 information system student at UFPI.
 
-Full Stack developer in development. Passionate about technology, programming and coffee💜👨‍💻☕. 
+Full-Stack developer in progress :rocket: . Passionate about technology, programming and coffee💜👨‍💻☕. 
 
 💜 - `Typescript, Nodejs, React, React Native`
 
