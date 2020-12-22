@@ -19,4 +19,5 @@ Full-Stack developer in progress :rocket: . Passionate about technology, program
 [![Linkedin Badge](https://img.shields.io/badge/-Jhonnas_keven-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keven-nunes-884a97159//)](https://www.linkedin.com/in/keven-nunes-884a97159//) 
 [![Gmail Badge](https://img.shields.io/badge/-jhonasnunes425@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhonasnunes425@gmail.com)](mailto:jhonasnunes425@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@_keven_nunes4313-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://www.instagram.com/keven_nunes4313/)](https://www.instagram.com/keven_nunes4313/)
+[![Portifolio Badge](https://img.shields.io/badge/-Portifólio-32CD32?style=flat-square&labelColor=32CD32&logo=portifolio&logoColor=white&link=https://chronzy.com/J-keven)](https://chronzy.com/J-keven)
 
