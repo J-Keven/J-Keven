@@ -2,10 +2,17 @@
 
 📚Information system student at UFPI.
 
-FullCycle developer in progress:rocket:. Passionate about technology, programming and coffee💜👨‍💻☕. 
+Back-end developer:rocket:. Passionate about technology, programming and coffee💜👨‍💻☕. 
 
 #### My techs 💜
 - `Typescript, Javascript, Nodejs, Golang, Docker e Docker-compose`
+
+#### Currently studying
+
+- microservices architecture
+- DDD
+- Golang
+- DevOps
 
 #### My activities
 
