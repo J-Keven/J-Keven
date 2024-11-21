@@ -16,6 +16,7 @@ Software Engineer :rocket:. Passionate about technology, programming and coffeeð
 - Golang
 - DevOps
 - Observability
+- AWS
 
 #### My activities
 
