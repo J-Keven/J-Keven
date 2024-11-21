@@ -12,10 +12,11 @@ Back-end developer:rocket:. Passionate about technology, programming and coffeeð
 
 #### Currently studying
 
-- microservices architecture
+- Microservices architecture
 - DDD
 - Golang
 - DevOps
+- AWS
 
 #### My activities
 
